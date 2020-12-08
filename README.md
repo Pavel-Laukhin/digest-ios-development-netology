@@ -115,7 +115,7 @@
 
 ### Диспетчеризация вызовов в Swift
 
-44. [Method Dispatch в Swift](https://www.youtube.com/watch?v=KoCjIv0moEE) Интересное про таблицы диспетчеризации ы Swift. Диспетчеризация на таблицах, сообщениях и прочее. Типичные ошибки при работе с расширениями протоколов.
+44. [Method Dispatch в Swift](https://www.youtube.com/watch?v=KoCjIv0moEE) Интересное про таблицы диспетчеризации в Swift. Диспетчеризация на таблицах, сообщениях и прочее. Типичные ошибки при работе с расширениями протоколов.
 
 1. [Swift Dispatch](https://gist.github.com/KingOfBrian/778dc93bffddf25b2c414360727c273b#file-message-swift)
 
