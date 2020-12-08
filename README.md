@@ -22,7 +22,7 @@
 
 1. [Swift Apprentice](https://www.raywenderlich.com/books/swift-apprentice/v6.0) Книга для пошагового изучения Swift с сайта Рея Вандерлиха 
 
-1. [Swift. Основы разработки приложений под iOS, iPadOS и macOS (6-е издание)](https://swiftme.ru/product/kniga-swift-razrabotka-prilozhenij-pod-ios-i-ipados-6-e-izdanie-kniga-1/) Шикарная книга на русском для начинающих изучат Swift. Всё по полочкам в голове разложится!
+1. [Swift. Основы разработки приложений под iOS, iPadOS и macOS (6-е издание)](https://swiftme.ru/product/kniga-swift-razrabotka-prilozhenij-pod-ios-i-ipados-6-e-izdanie-kniga-1/) Шикарная книга на русском для начинающих изучать Swift. Всё по полочкам в голове разложится!
 
 1. [Блог развития языка Swift](https://swift.org/blog/) Публикации обновлений языка и анонсы будущих нововведений
 
