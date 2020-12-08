@@ -365,15 +365,17 @@
 
 1. [How To Make HTTP Requests With URLSession in Swift](https://medium.com/dev-genius/how-to-make-http-requests-with-urlsession-in-swift-4dced0287d40)
 
+1. [Disable Apple Transport Security iOS Tutorial](https://www.ioscreator.com/tutorials/disable-apple-transport-security-ios-tutorial) Как отключить АТС для работы с небезопасными HTTP ссылками. Намример, для тестирования приложения на локальном тестовом сервере.
+
 ## CORE DATA
 
-151. [Derived Attributes to improve Core Data Fetch Performance](https://www.avanderlee.com/core-data/derived-attributes-optimise-fetch-performance/) Оптимизируем получение результатов поиска, используя производные аттрибуты
+152. [Derived Attributes to improve Core Data Fetch Performance](https://www.avanderlee.com/core-data/derived-attributes-optimise-fetch-performance/) Оптимизируем получение результатов поиска, используя производные аттрибуты
 
 1. [Constraints in Core Data Entities explained](https://www.avanderlee.com/swift/constraints-core-data-entities/)
 
 ## ПОЛЕЗНАЯ ДОКУМЕНТАЦИЯ НА КАЖДЫЙ ДЕНЬ
 
-153. [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) Матчасть для каждого разработчика. Главный документ от Apple.
+154. [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) Матчасть для каждого разработчика. Главный документ от Apple.
 
 1. [Visual Design from Humai Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/) Размеры экранов и size classes у различных устройств.
 
@@ -388,7 +390,7 @@
 
 ## ДЕБАГГИНГ
 
-159. [Signpost: когда брейкпоинтов недостаточно](https://habr.com/ru/company/sberbank/blog/443414/)
+160. [Signpost: когда брейкпоинтов недостаточно](https://habr.com/ru/company/sberbank/blog/443414/)
 
 1. [UIKonf 2020 - Marin Todorov - Fixing your Combine code with the Timelane Instrument](https://www.youtube.com/watch?v=QfGZUfLw5AA&feature=youtu.be)
 
@@ -405,12 +407,12 @@
 
 ## ДОПОЛНИТЕЛЬНЫЕ ИНСТРУМЕНТЫ РАЗРАБОТЧИКА
 
-166. [Live-demo: магия shell 🧙🏻‍♂️ / Андрей Александров Как использовать оболочку терминала как профессионал](https://www.youtube.com/watch?v=t9QsroC7RLQ&feature=youtu.be)
+167. [Live-demo: магия shell 🧙🏻‍♂️ / Андрей Александров Как использовать оболочку терминала как профессионал](https://www.youtube.com/watch?v=t9QsroC7RLQ&feature=youtu.be)
 
 
 ### Создание логотипов и иконок
 
-167. [Hatchful](https://hatchful.shopify.com/?ref=producthunt) от Shopify. Сайт для легкого и быстрого составления логотипов из предлагаемых шаблонов.
+168. [Hatchful](https://hatchful.shopify.com/?ref=producthunt) от Shopify. Сайт для легкого и быстрого составления логотипов из предлагаемых шаблонов.
 
 1. [Brandmark - the smart brand and logo creator](https://app.brandmark.io/brandmark/) Сайт для генерации логотипов 
 
@@ -429,7 +431,7 @@
 
 ### Дизайн 
 
-175. [Canva](https://www.canva.com/) – простое создание графического дизайна онлайн.
+176. [Canva](https://www.canva.com/) – простое создание графического дизайна онлайн.
 
 1. [Figma или Sketch? Опыт дизайнеров компании AIC](https://netology.ru/blog/07-2020-figma-vs-sketch?mindbox-click-id=0d00ffb2-4796-42bb-8844-5866b51a47a1&utm_source=newsletter&utm_medium=email&utm_campaign=brand_all_newsletter_2020_08_14)
 
@@ -440,7 +442,7 @@
 
 ### Работа в Xcode.
 
-179. [Xcode Tutorial For Beginners](https://codewithchris.com/xcode-tutorial/#2-download-xcode-and-install) Большой туториал по работе в Xcode.
+180. [Xcode Tutorial For Beginners](https://codewithchris.com/xcode-tutorial/#2-download-xcode-and-install) Большой туториал по работе в Xcode.
 
 1. [Swift Auto Diagram and more](https://martinmitrevski.com/2016/10/12/swift-class-diagrams-and-more/) Библиотека для создания наглядной зависимости объектов в приложении. Может быть полезна, чтобы разобраться в сложном коде и понять, что, как и с чем взаимодействует
 
@@ -453,7 +455,7 @@
 
 ## БЛОГИ, ПОДКАСТЫ, АЛЬМАНАХИ
 
-184. https://www.hackingwithswift.com 
+185. https://www.hackingwithswift.com 
 
 1. [iOS / Mac / Swift от RP-Labs (rightpoint.com)](https://www.rightpoint.com/rplabs/category/development/ios-mac/)
 
@@ -490,7 +492,7 @@
 
 ## ПРОЧЕЕ ПОЛЕЗНОЕ
 
-201. https://stackoverflow.com Самый популярный сайт, на котором программисты делятся опытом (вопрос/ответ)
+202. https://stackoverflow.com Самый популярный сайт, на котором программисты делятся опытом (вопрос/ответ)
 
 1. [Оставьте все сомнения: как избежать синдрома самозванца](https://habr.com/ru/post/347646/)
 
