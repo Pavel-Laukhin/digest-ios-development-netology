@@ -67,7 +67,7 @@
 
 1. [Используем замыкания в Swift по полной](https://habr.com/ru/post/241303/)
 
-1. [Атрибуты Про странные слова с @, встречающиеся в коде (@available, @objc и т.п.)](https://habr.com/ru/post/241303/)
+1. [Атрибуты](https://habr.com/ru/post/241303/) Про странные слова с @, встречающиеся в коде (@available, @objc и т.п.)
 
 1. [Int, UInt8 or UInt16. Swift, I’m confused](https://medium.com/macoclock/int-uint8-or-uint16-swift-im-confused-bbb19f28e4ad) Про разницу между типами UInt8, UInt16 и т.п.
 
