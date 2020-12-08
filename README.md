@@ -355,7 +355,7 @@
 
 1. [Online JSON Viewer](http://jsonviewer.stack.hu/) Полезный сайт для удобного и наглядного представления больших JSON объектов
 
-1. [Working With Codable and JSON in Swift](https://learnappmaking.com/codable-json-swift-how-to/) Полезная статья про использование протокола Сщdable
+1. [Working With Codable and JSON in Swift](https://learnappmaking.com/codable-json-swift-how-to/) Полезная статья про использование протокола Codable
 
 1. [Decoding JSON data - Error response](https://www.hackingwithswift.com/forums/swiftui/decoding-json-data/3024) Полезная статья про декодинг JSON
 
