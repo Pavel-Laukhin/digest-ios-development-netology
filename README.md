@@ -37,7 +37,7 @@
 
 1. [Sample Code](https://developer.apple.com/library/archive/navigation/#section=Resource%20Types&topic=Sample%20Code) Огромный архив от Apple с примерами кода: от поиска по таблицам, до аудио и работы с картами.
 
-1. [Optionals in Swift explained: 5 things you should know](https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/) Полезная стать про опционалы
+1. [Optionals in Swift explained: 5 things you should know](https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/) Полезная статья про опционалы
 
 1. [Get nth character of a string in Swift programming language](https://stackoverflow.com/questions/24092884/get-nth-character-of-a-string-in-swift-programming-language) Как сделать возможность работать со строкой, как с массивом символов, используя числовой индекс
 
