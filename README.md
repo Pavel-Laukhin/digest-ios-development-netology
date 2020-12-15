@@ -76,7 +76,7 @@
 
 ### Value Types vs. Reference Types
 
-30. [Controlling Complexity in Swift: Making Value Types Friends](https://academy.realm.io/posts/andy-matuschak-controlling-complexity/)
+1. [Controlling Complexity in Swift: Making Value Types Friends](https://academy.realm.io/posts/andy-matuschak-controlling-complexity/)
 
 1. [Maksym Husar - Dig into Value types @ CocoaHeads](https://www.youtube.com/watch?v=8L5cUiV1qDo&feature=share) Всегда ли лучше использовать value types?
 
@@ -87,7 +87,7 @@
 
 ### Управление памятью (см. также Дебаггинг)
 
-34. [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
+1. [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
 
 1. [Списки захвата в Swift: в чём разница между ссылками weak, strong и unowned?](https://habr.com/ru/post/444336/)
 
@@ -100,13 +100,13 @@
 
 #### Видео на тему языка Swift (кому-то может пригодиться):
 
-39. [Классы и Структуры - YouTube](https://www.youtube.com/watch?v=ucERofjMZRE&list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm&index=23)
+1. [Классы и Структуры - YouTube](https://www.youtube.com/watch?v=ucERofjMZRE&list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm&index=23)
 1. [Кортежи (Tuples)](https://www.youtube.com/watch?v=_mb_YmvY4JE&list=PLmTuDg46zmKD1Afugc4dYZP_q-zTmBV1n&index=5)
 
 
 ### Протоколо-ориентированное программмирование
 
-41. [Protocol-Oriented Programming Tutorial in Swift 5.1: Getting Started](https://www.raywenderlich.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started) Статья с сайта Рея Вандерлиха о том, что такое протоколо-ориентированное программирование
+1. [Protocol-Oriented Programming Tutorial in Swift 5.1: Getting Started](https://www.raywenderlich.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started) Статья с сайта Рея Вандерлиха о том, что такое протоколо-ориентированное программирование
 
 1. [Когда и почему я должен использовать протоколы в Swift?](https://progi.pro/kogda-i-pochemu-ya-dolzhen-ispolzovat-protokoli-v-swift-607757)
 
@@ -115,7 +115,7 @@
 
 ### Диспетчеризация вызовов в Swift
 
-44. [Method Dispatch в Swift](https://www.youtube.com/watch?v=KoCjIv0moEE) Интересное про таблицы диспетчеризации в Swift. Диспетчеризация на таблицах, сообщениях и прочее. Типичные ошибки при работе с расширениями протоколов.
+1. [Method Dispatch в Swift](https://www.youtube.com/watch?v=KoCjIv0moEE) Интересное про таблицы диспетчеризации в Swift. Диспетчеризация на таблицах, сообщениях и прочее. Типичные ошибки при работе с расширениями протоколов.
 
 1. [Swift Dispatch](https://gist.github.com/KingOfBrian/778dc93bffddf25b2c414360727c273b#file-message-swift)
 
@@ -130,7 +130,7 @@
 
 ### Дата и время
 
-50. [How do you create a Swift Date object?](https://stackoverflow.com/questions/24089999/how-do-you-create-a-swift-date-object) Как правильно работать с датами
+1. [How do you create a Swift Date object?](https://stackoverflow.com/questions/24089999/how-do-you-create-a-swift-date-object) Как правильно работать с датами
 
 1. [Работа с временем на Swift](https://habr.com/ru/sandbox/115426/)
 
@@ -139,7 +139,7 @@
 
 ### Архитектура, паттерны и прочие принципы
 
-53. [Делегаты и колбэки в Swift простым языком. Что же такое этот delegate, и как работает callback](https://habr.com/ru/post/510882/)
+1. [Делегаты и колбэки в Swift простым языком. Что же такое этот delegate, и как работает callback](https://habr.com/ru/post/510882/)
 
 1. [Pass Data Between View Controllers – LearnAppMaking](https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/) Способы передачи информации между контроллерами
 
@@ -173,7 +173,7 @@
 
 ## UI
 
-69. [UIView](https://developer.apple.com/documentation/uikit/uiview) Матчасть
+1. [UIView](https://developer.apple.com/documentation/uikit/uiview) Матчасть
 
 1. [Launch Screen](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/launch-screen/) Матчасть
 
@@ -211,10 +211,12 @@
 
 1. [Using PHPickerViewController Images in a Memory-Efficient Way](https://christianselig.com/2020/09/phpickerviewcontroller-efficiently/)
 
+1. [Understanding Custom UIView In-depth: Setting File Owner vs custom class](https://medium.com/@bhupendra.trivedi14/understanding-custom-uiview-in-depth-setting-file-owner-vs-custom-class-e2cab4bb9df8) Статья, после которой станет понятно, что выбирать при создании аутлета и экшена в поле "Object": File's Owner или ваш кастомный класс.
+
 
 ### SwiftUI (см. также раздел «Блоги»)
 
-88. https://developer.apple.com/tutorials/swiftui Крутой интерактивный гайд про SwiftUI
+1. https://developer.apple.com/tutorials/swiftui Крутой интерактивный гайд про SwiftUI
 
 1. [Your SwiftUI Journey](https://www.bigmountainstudio.com/) Cерия книг от Big Mountain Studio: SwiftUI Views Mastery и SwiftUI Animations Mastery. На сайте можно получить бесплатную версию (там меньше страниц).
 
@@ -226,7 +228,7 @@
 
 ### Жизненный цикл объектов пользовательского интерфейса
 
-92. [OBJECT LIFE CYCLE: UIVIEWCONTROLLER](https://bradbambara.wordpress.com/2014/07/31/object-life-cycle-uiviewcontroller/) и [OBJECT LIFE CYCLE: UIVIEW](https://bradbambara.wordpress.com/2015/01/18/object-life-cycle-uiview/) Две статьи от одного автора на тему ЖЦ объектов UI.
+1. [OBJECT LIFE CYCLE: UIVIEWCONTROLLER](https://bradbambara.wordpress.com/2014/07/31/object-life-cycle-uiviewcontroller/) и [OBJECT LIFE CYCLE: UIVIEW](https://bradbambara.wordpress.com/2015/01/18/object-life-cycle-uiview/) Две статьи от одного автора на тему ЖЦ объектов UI.
 
 1. [Жизненный Цикл UIViewController](https://swiftbook.ru/post/koposhilka/viewcontroller-lifecycle/)
 
@@ -241,7 +243,7 @@
 
 ### UICollectionView и UITableView
 
-98. [UICollectionView Tutorial: Getting Started](https://www.raywenderlich.com/9334-uicollectionview-tutorial-getting-started)
+1. [UICollectionView Tutorial: Getting Started](https://www.raywenderlich.com/9334-uicollectionview-tutorial-getting-started)
 
 1. [UICollectionView Custom Layout Tutorial](https://www.raywenderlich.com/4829472-uicollectionview-custom-layout-tutorial-pinterest)
 
@@ -256,7 +258,7 @@
 
 ### Переходы между контроллерами
 
-104. [Animate presentModalViewController from right/left](https://stackoverflow.com/questions/8999953/animate-presentmodalviewcontroller-from-right-left) Как презентовать модально так, чтобы контроллер выезжал справа или слева
+1. [Animate presentModalViewController from right/left](https://stackoverflow.com/questions/8999953/animate-presentmodalviewcontroller-from-right-left) Как презентовать модально так, чтобы контроллер выезжал справа или слева
 
 1. [How To Make A UIViewController Transition Animation Like in the Ping App](https://www.raywenderlich.com/261-how-to-make-a-uiviewcontroller-transition-animation-like-in-the-ping-app) Статья с сайта Рея Вандерлиха о том, как сделать очень красивый анимированный переход
 
@@ -271,7 +273,7 @@
 
 ### Анимация
 
-110. [Swift Animations in iOS](https://www.latticestudios.com/blog/swift-animations-in-ios) Туториал
+1. [Swift Animations in iOS](https://www.latticestudios.com/blog/swift-animations-in-ios) Туториал
 
 1. [UIView Animation Options Reference Guide](https://medium.com/@apmason/uiview-animation-options-9510832eedba)
 
@@ -290,20 +292,20 @@
 
 ### Обработка изображений
 
-118. [Core Image Filter Reference](https://developer.apple.com/library/archive/documentation/GraphicsImaging/Reference/CoreImageFilterReference/index.html) Документация от Apple по Core Image
+1. [Core Image Filter Reference](https://developer.apple.com/library/archive/documentation/GraphicsImaging/Reference/CoreImageFilterReference/index.html) Документация от Apple по Core Image
 
 
 
 ### Лучшие примеры дизайна
  
-119. [Dribbble.com](https://dribbble.com/) Лучшие примеры дизайна из разничных ИТ сфер, в том числе дизайн приложений iOS.
+1. [Dribbble.com](https://dribbble.com/) Лучшие примеры дизайна из разничных ИТ сфер, в том числе дизайн приложений iOS.
 
 1. [UI/UX Onboarding iOS best practices](https://ui.qonversion.io/)
 
 
 ## МНОГОПОТОЧНОСТЬ
 
-121. [Мютексы](http://www.pic24.ru/doku.php/tnkernel/ref/mutex/intro) А зачем вообще нужно блокировать ресурсы?
+1. [Мютексы](http://www.pic24.ru/doku.php/tnkernel/ref/mutex/intro) А зачем вообще нужно блокировать ресурсы?
 
 1. [What is priority inversion?](https://www.quora.com/What-is-priority-inversion)
 
@@ -347,7 +349,7 @@
 
 ## РАБОТА С СЕТЬЮ
 
-142. [Введение в JSON](https://medium.com/@stasonmars/введение-в-json-c798d2723107)
+1. [Введение в JSON](https://medium.com/@stasonmars/введение-в-json-c798d2723107)
 
 1. [How to convert a JSON string to a dictionary?](https://stackoverflow.com/questions/30480672/how-to-convert-a-json-string-to-a-dictionary)
 
@@ -369,13 +371,13 @@
 
 ## CORE DATA
 
-152. [Derived Attributes to improve Core Data Fetch Performance](https://www.avanderlee.com/core-data/derived-attributes-optimise-fetch-performance/) Оптимизируем получение результатов поиска, используя производные аттрибуты
+1. [Derived Attributes to improve Core Data Fetch Performance](https://www.avanderlee.com/core-data/derived-attributes-optimise-fetch-performance/) Оптимизируем получение результатов поиска, используя производные аттрибуты
 
 1. [Constraints in Core Data Entities explained](https://www.avanderlee.com/swift/constraints-core-data-entities/)
 
 ## ПОЛЕЗНАЯ ДОКУМЕНТАЦИЯ НА КАЖДЫЙ ДЕНЬ
 
-154. [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) Матчасть для каждого разработчика. Главный документ от Apple.
+1. [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) Матчасть для каждого разработчика. Главный документ от Apple.
 
 1. [Visual Design from Humai Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/) Размеры экранов и size classes у различных устройств.
 
@@ -390,7 +392,7 @@
 
 ## ДЕБАГГИНГ
 
-160. [Signpost: когда брейкпоинтов недостаточно](https://habr.com/ru/company/sberbank/blog/443414/)
+1. [Signpost: когда брейкпоинтов недостаточно](https://habr.com/ru/company/sberbank/blog/443414/)
 
 1. [UIKonf 2020 - Marin Todorov - Fixing your Combine code with the Timelane Instrument](https://www.youtube.com/watch?v=QfGZUfLw5AA&feature=youtu.be)
 
@@ -407,12 +409,12 @@
 
 ## ДОПОЛНИТЕЛЬНЫЕ ИНСТРУМЕНТЫ РАЗРАБОТЧИКА
 
-167. [Live-demo: магия shell 🧙🏻‍♂️ / Андрей Александров Как использовать оболочку терминала как профессионал](https://www.youtube.com/watch?v=t9QsroC7RLQ&feature=youtu.be)
+1. [Live-demo: магия shell 🧙🏻‍♂️ / Андрей Александров Как использовать оболочку терминала как профессионал](https://www.youtube.com/watch?v=t9QsroC7RLQ&feature=youtu.be)
 
 
 ### Создание логотипов и иконок
 
-168. [Hatchful](https://hatchful.shopify.com/?ref=producthunt) от Shopify. Сайт для легкого и быстрого составления логотипов из предлагаемых шаблонов.
+1. [Hatchful](https://hatchful.shopify.com/?ref=producthunt) от Shopify. Сайт для легкого и быстрого составления логотипов из предлагаемых шаблонов.
 
 1. [Brandmark - the smart brand and logo creator](https://app.brandmark.io/brandmark/) Сайт для генерации логотипов 
 
@@ -431,7 +433,7 @@
 
 ### Дизайн 
 
-176. [Canva](https://www.canva.com/) – простое создание графического дизайна онлайн.
+1. [Canva](https://www.canva.com/) – простое создание графического дизайна онлайн.
 
 1. [Figma или Sketch? Опыт дизайнеров компании AIC](https://netology.ru/blog/07-2020-figma-vs-sketch?mindbox-click-id=0d00ffb2-4796-42bb-8844-5866b51a47a1&utm_source=newsletter&utm_medium=email&utm_campaign=brand_all_newsletter_2020_08_14)
 
@@ -442,7 +444,7 @@
 
 ### Работа в Xcode.
 
-180. [Xcode Tutorial For Beginners](https://codewithchris.com/xcode-tutorial/#2-download-xcode-and-install) Большой туториал по работе в Xcode.
+1. [Xcode Tutorial For Beginners](https://codewithchris.com/xcode-tutorial/#2-download-xcode-and-install) Большой туториал по работе в Xcode.
 
 1. [Swift Auto Diagram and more](https://martinmitrevski.com/2016/10/12/swift-class-diagrams-and-more/) Библиотека для создания наглядной зависимости объектов в приложении. Может быть полезна, чтобы разобраться в сложном коде и понять, что, как и с чем взаимодействует
 
@@ -455,7 +457,7 @@
 
 ## БЛОГИ, ПОДКАСТЫ, АЛЬМАНАХИ
 
-185. https://www.hackingwithswift.com 
+1. https://www.hackingwithswift.com 
 
 1. [iOS / Mac / Swift от RP-Labs (rightpoint.com)](https://www.rightpoint.com/rplabs/category/development/ios-mac/)
 
@@ -492,7 +494,7 @@
 
 ## ПРОЧЕЕ ПОЛЕЗНОЕ
 
-202. https://stackoverflow.com Самый популярный сайт, на котором программисты делятся опытом (вопрос/ответ)
+1. https://stackoverflow.com Самый популярный сайт, на котором программисты делятся опытом (вопрос/ответ)
 
 1. [Оставьте все сомнения: как избежать синдрома самозванца](https://habr.com/ru/post/347646/)
 
@@ -509,3 +511,6 @@
 1. https://www.codewars.com Отточить своё знание Swift на практике
 
 1.  [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) Узнай всё про алгоритмы в Swift!!!
+
+-----
+Итого ссылок: 209
